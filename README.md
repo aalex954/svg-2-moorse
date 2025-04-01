@@ -5,6 +5,15 @@ This project processes an image containing neon green dots on a black background
 
 It's especially useful for decoding steganographic messages or visually encoded signals from stylized images.
 
+![image](https://github.com/user-attachments/assets/7dfb03da-c026-4ea6-98bc-36c1cd938da5)
+
+
+## Usage
+
+```bash
+python morse_extractor_cli.py path/to/your/image.png
+```
+
 ## How It Works
 
 - Image Preprocessing
